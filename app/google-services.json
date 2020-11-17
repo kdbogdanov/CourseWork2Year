@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "143317117598",
+    "firebase_url": "https://scrabblegame-6f4f4.firebaseio.com",
+    "project_id": "scrabblegame-6f4f4",
+    "storage_bucket": "scrabblegame-6f4f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143317117598:android:c92642896007aca499698f",
+        "android_client_info": {
+          "package_name": "com.app.scrabblegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143317117598-s9n85p9ajcr4kdoqolvclflfah43rvto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIHm5teNB-Wo7QW1h5iGw-Jx7JhGF9ZNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143317117598-s9n85p9ajcr4kdoqolvclflfah43rvto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
